@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Dropdowns from './Dropdown'
-// import googleMapStyles from "../assets/GoogleMapsStyle";
 import "../App.css"
 
 class Maps extends React.Component {
