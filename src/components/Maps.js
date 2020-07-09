@@ -1,4 +1,3 @@
-import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
 import React, { useState } from "react";
 import Dropdowns from './Dropdown'
 // import googleMapStyles from "../assets/GoogleMapsStyle";
@@ -110,10 +109,7 @@ class Maps extends React.Component {
                     jam : this.props.jam,
                     keys : this.props.keys})
     }
-    // this.setState({ latitude: this.props.latitude, longitude: this.props.longitude, title: this.props.title, keys: this.props.keys, alamat: this.props.alamat, telp: this.props.telp, email: this.props.email }, () => {
-    //   console.log(this.state.latitude, this.state.longitude, this.state.keys, this.props.title, this.props.alamat, this.props.telp, this.props.email, this.props.idShowAll, 'dealersOverallTotal1');
-    // });
-    // console.log('jalan')
+ 
   }
 
   errorHandler(error) {
