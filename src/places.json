@@ -1,0 +1,139 @@
+{
+    "fakultas": [
+      {
+        "id" : "0",
+        "title": "Fakultas Ekonomi",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "1",
+        "title": "Fakultas Farmasi",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "2",
+        "title": "Fakultas Hukum",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "3",
+        "title": "Fakultas Ilmu Administrasi",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "4",
+        "title": "Fakultas Ilmu Budaya",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "5",
+        "title": "Fakultas Ilmu Keperawatan",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "6",
+        "title": "Fakultas Ilmu Komputer",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "7",
+        "title": "Fakultas Ilmu Sosial dan Politik",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "8",
+        "title": "Fakultas Kedokteran",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "9",
+        "title": "Fakultas Kedokteran Gigi",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "10",
+        "title": "Fakultas Kesehatan Masyarakat",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "11",
+        "title": "Fakultas Matematika dan IPA",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "12",
+        "title": "Fakultas Psikologi",
+        "selected" : false,
+        "key" : "fakultas"
+      },
+      {
+        "id" : "13",
+        "title": "Fakultas Teknik",
+        "selected" : false,
+        "key" : "fakultas"
+      }
+
+    ],
+    "umum": [
+      {
+        "id": "0",
+        "title": "Asrama Mahasiswa",
+        "selected": false,
+        "key": "umum"
+      },
+      {
+        "id": "1",
+        "title": "Balairung",
+        "selected": false,
+        "key": "umum"
+      },
+      {
+        "id": "2",
+        "title": "Career Development Centre",
+        "selected": false,
+        "key": "umum"
+      },
+      {
+        "id": "3",
+        "title": "Balairung",
+        "selected": false,
+        "key": "umum"
+      },
+      {
+        "id": "4",
+        "title": "Masjid Universitas Indonesia",
+        "selected": false,
+        "key": "umum"
+      },
+      {
+        "id": "5",
+        "title": "Pusat Administrasi Universitas Indonesia",
+        "selected": false,
+        "key": "umum"
+      },
+      {
+        "id": "6",
+        "title": "Penerimaan Mahasiswa Baru",
+        "selected": false,
+        "key": "umum"
+      },
+      {
+        "id": "7",
+        "title": "Rumpun Kesehatan",
+        "selected": false,
+        "key": "umum"
+      }
+    ]
+  }
